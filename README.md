@@ -14,8 +14,13 @@ setup the database in the db.config.js file
 
 ## Available Endpoints
 post '/api/players' create new player
+
 get '/api/players' find all players if query parameter is not filled
+
 get '/api/players/:id' get player details by matching id
+
 put '/api/players/:id' update player details by matching id
+
 post '/api/players/exp/:id' update player's exp 
+
 delete '/api/players/:id' delete player by matching id
