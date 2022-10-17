@@ -1,4 +1,4 @@
-# Binar Challenge Chapter 8 Frontend
+# Binar Academy Bootcamp - FSW - Chapter 8 - Challenge - Frontend
 
 ## Available Scripts
 
