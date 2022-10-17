@@ -11,9 +11,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Available Pages
 
-### '/' Create new Player
+ '/' Create new Player
 
-### '/update' Update Player details
+ '/update' Update Player details
 
-### '/dashboard' Dashboard to show Player list and filter feature
+ '/dashboard' Dashboard to show Player list and filter feature
  
